@@ -10,3 +10,9 @@
 
 -- [WSGT](https://docs.google.com/spreadsheets/d/1a-5Go1a9xc-2D2CYeihwSUWvq28592TpaGCmPwLKYbQ/edit?usp=sharing)
 
+-- [Networking](https://www.engpaper.com/network-security-ieee-papers-2019.htm)
+
+-- [Breachdata wordlists](https://weakpass.com/wordlists/breach.txt#download)
+
+-- [Free API](https://apicentral.idfy.com/sessions/new)
+
