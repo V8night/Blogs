@@ -17,3 +17,5 @@
 -- [Free API](https://apicentral.idfy.com/sessions/new)
 
 -- [Bug-Bounty-Dork](https://freedium-mirror.cfd/infosecwriteups.com/github-recon-the-underrated-technique-to-discover-high-impact-leaks-in-bug-bounty-c4069894389a)
+
+-- [Auth Blog](https://medium.com/h7w/understanding-login-protocols-oidc-oauth2-saml-and-webauthn-c1f1b733f3f7)
