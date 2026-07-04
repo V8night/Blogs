@@ -21,3 +21,5 @@
 -- [Auth Blog](https://medium.com/h7w/understanding-login-protocols-oidc-oauth2-saml-and-webauthn-c1f1b733f3f7)
 
 -- [one lines bb](https://github.com/0xPugal/One-Liners)
+
+-- [Artishit live](https://web.archive.org/web/20201205081811/https://arishti.live/training/)
